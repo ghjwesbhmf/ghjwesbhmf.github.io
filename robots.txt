@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ghjwesbhmf.github.io/sitemap.xml
